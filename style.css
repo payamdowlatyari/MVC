@@ -14,3 +14,12 @@
 body{
     background-color: whitesmoke;
 }
+
+.footer{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    bottom: 0;
+    color: gray; 
+}
